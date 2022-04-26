@@ -1,0 +1,189 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+} */
+header {
+     background: linear-gradient(#1f2d5f 100%, #243160 89%);
+     border-top-left-radius: 1rem;
+     border-top-right-radius: 1rem;
+     padding-top: 2rem;
+}
+nav {
+    background: white;
+    border-radius: 2rem;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.125rem;
+    line-height: 1.313rem;
+}
+.navbar-brand {
+    color: #1f2d5f;
+}
+.navlink {
+    color: #1f2d5f;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.125rem;
+    text-decoration: none;
+}
+main {
+    color: white;
+    padding-bottom: 15rem;
+}
+.slash {
+	font-size: small;   
+}
+.num {
+    color: blue;
+    font-size: 45px;
+    font-weight: 700;
+}
+.subtitle {
+    color: #F70E0E;
+    font-size: 18px;
+}
+.numbers {
+    border: white solid;
+    border-radius: 2rem;
+    font-family: 'Noto Sans';
+    box-shadow: -1px 4px 5px -1px rgba(0, 0, 0, 0.25);
+    width: 875px;
+    margin-top: -5rem;
+    background-color: white;
+    
+}
+.tech {
+    font-size: 14px;
+}
+
+.col {
+    font: 'Roboto' 400 normal;
+    font-size: 0.813rem;
+    color: #747171;
+}
+.fig {
+    font: 'Noto Sans' 700 normal 1.125rem;
+    color: black;
+}
+ .hi { 
+     -webkit-transform: rotate(270deg);
+ }
+ .button {
+     border: 1rem white;
+     border-radius: 0.5rem;
+     /* box-shadow: white; */
+     /* font: 'Roboto' 400 normal; */
+     text-decoration: none;
+     color: black;
+     background-color: white;
+     padding:  0.4rem 2rem;
+     font-size: 1.125rem; 
+ }
+ .section2 {
+     border-bottom: 0.063rem solid #143AC1;
+     padding: 10rem;
+ }
+ .rectangle {
+      width: 30rem;
+      height: 28rem;
+      background-color: #a00000;
+      margin: 8rem 0 0rem 5rem;
+      border-radius: 1rem;
+      align-items: center;
+      justify-content: center;
+      
+ }
+ .design {
+     font: 'Roboto' 700 normal;
+     font-size: 1.25rem;
+     color: white;
+     margin-bottom: 5rem;
+ }
+ .overlap2 {
+     background-color: #455077;
+     color: white; 
+     margin: -10rem 20rem 0;
+     padding-bottom: 2rem;
+     border-radius: 1rem;
+     position: relative;  
+ }
+ .purchase {
+     text-decoration: none;
+     /* border: 1rem white; */
+     border-radius: 0.5rem;
+     color: black;
+     background-color: white;
+     padding: 0.3rem 2rem;
+ }
+ .cost {
+     font-size: 2.25rem;
+     font: 'Noto sans' normal 700;
+ }
+ .theme {
+     font: 'Noto sans' normal 700;
+     line-height: 3.063rem;
+ }
+ .index {
+     background-color: #a00000;
+     position: absolute;
+     width: 5.7rem;
+     height: 4.688rem;
+     right: -2rem;
+     top: -2rem;
+     border-radius: 0.5rem;
+     box-shadow: #455077;
+ }
+ /* .message {
+     align-items: start;
+ } */
+ .input {
+     background-color: #dbdbdb;
+     border: none;
+     border-radius: 0.3rem;
+ }
+ .message {
+     color: #747171;
+ }
+ .contact {
+     color: #1F2D5F;
+     font: 'Roboto' normal 1.75rem;
+     font-size: 400;
+ }
+ .send-btn {
+     margin: 2rem 0 6rem 6rem;
+     padding: 0.2rem 2.5rem;
+     background-color: #1F2D5f;
+     border-radius: 0.5rem;
+     color: white;
+ }
+ .form {
+     margin-left: 5rem;
+ }
+ .draw {
+     margin-right: 5rem;
+ }
+ a {
+	text-decoration: none;
+	color: white;
+	font-family: Roboto;
+}
+a:hover {
+	color: white;
+	border-bottom: solid aqua;
+}   
+footer {
+	background-color: rgba(160, 0, 0, 0.8);
+	color: white;
+	border-bottom-left-radius: 1rem;
+	border-bottom-right-radius: 1rem;
+    font-family: 'Roboto';
+}
+p {
+	margin-bottom: 0;
+}
+.slash {
+	font-size: small;
+}
